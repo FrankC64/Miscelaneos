@@ -1,0 +1,20 @@
+# Ignore
+*
+
+# Not ignore
+!*/
+
+!.gitignore
+!README.md
+
+!C_C++/Keyboard/APPs/Multimedia\ Buttons/MultimediaButtons.c
+!C_C++/Keyboard/APPs/Multimedia\ Buttons/README.md
+
+!C_C++/Keyboard/Headers/Identify\ keys/identkeys.h
+!C_C++/Keyboard/Headers/Identify\ keys/README.md
+
+!Python/File\ enumerator/file_enumerator.py
+!Python/File\ enumerator/README.md
+
+!Python/Adjust\ route/adjustroute.py
+!Python/Adjust\ route/README.md
